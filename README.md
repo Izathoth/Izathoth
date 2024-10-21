@@ -16,9 +16,6 @@
 **![GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=Izathoth&count_private=true&show_icons=true&theme=radical&bg_color=0D1117&border_radius=10&title_color=FFD43B&icon_color=F7DF1E)**  
 **![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Izathoth&theme=dark&bg_color=1A1A2E&border_radius=10&langs_count=20&layout=compact&title_color=FFD43B)**  
 
-## **🚀 Projetos**
-
-**- [Riza I.A](https://github.com/Izathoth/Riza-I.A): Projeto de Inteligência Artificial em desenvolvimento.**  
 
 ## **📞 Contatos**
 
